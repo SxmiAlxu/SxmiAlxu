@@ -1,5 +1,5 @@
 - Hi, I’m @SxmiAlxu
-- I’m Interested In Coding Applications And Pentesting.
+- I’m Interested In Coding Applications And Pentesting And DDoS Protection - Layer 3/4 & Layer 7 Attacks.
 - I’m Currently Fluent In c#, GoLang, Wpf, Dnlib I Am Learning C++/C, Java, HTML & CSS.
-- I Am Looking To Partner With Someone That Knows A Good Ammount Of Lang's.
-
+- I’m Looking To Partner With Someone That Knows A Good Ammount Of Lang's.
+- I Also Like To Pwn Servers Too.
